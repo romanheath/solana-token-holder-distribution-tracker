@@ -1,0 +1,14 @@
+{
+  "name": "solana-token-holder-distribution-tracker",
+  "version": "1.0.0",
+  "description": "RPC-only Solana tool to track top SPL token holders and analyze distribution and net token flow over time.",
+  "type": "module",
+  "main": "src/topHolders.js",
+  "scripts": {
+    "start": "node src/topHolders.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "dotenv": "^17.2.3"
+  }
+}
