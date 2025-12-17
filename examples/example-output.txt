@@ -1,0 +1,242 @@
+🎯 Mint: BANKJmvhT8tiJRsBSS1n2HryMBPvT5Ze4HU95DUAmeta
+❗ Enter token decimals (required, e.g., 6 or 9): 6
+🧮 Using manual decimals: 6
+⏱️ Enter number of hours to look back (1, 4, 24): 168
+🚦 Enter max seconds to tolerate 429s before skipping a wallet (e.g., 5): 5
+📛 Any wallet 429'ing for > 5s will be skipped.
+
+📡 Scanning top 20 holders of BANKJmvhT8tiJRsBSS1n2HryMBPvT5Ze4HU95DUAmeta for last 168 hours...
+
+📥 Fetching largest token accounts...
+📌 Resolving token account owners...
+🐳 Whale wallet: 3D854kknnQhu9xVaRNV154oZ9oN2WF3tXsq3LDu7fFMn
+   Token account: Bq2PMcBAFGLent72NgibJZJEXiy4n2dkbteACXn28u3g
+   Current balance: 849568.723973
+⏭️ SKIP Bq2PMcBAFGLent72NgibJZJEXiy4n2dkbteACXn28u3g — 429s > 5s
+🐳 Whale wallet: HLnpSz9h2S4hiLQ43rnSD9XkcUThA7B8hQMKmDaiTLcC
+   Token account: DspDxKwCcR399EYJUyh42KHyBEJGxy82XUBiHy62Fnmi
+   Current balance: 457309.781227
+⏭️ SKIP DspDxKwCcR399EYJUyh42KHyBEJGxy82XUBiHy62Fnmi — 429s > 5s
+🐳 Whale wallet: ForQYxfhLMv3ieCWQYxMWwACZZTp16rBUe3r8cwRLnB5
+   Token account: 24b2vH6ANLqxqBYP91DKiLeHdnfysvRiLfWHHRKbfA3Y
+   Current balance: 273725.882549
+🐳 Whale wallet: EvBouh9spSXXJNLSmwEK4MEukTbN47p2j9t2v4KkQibW
+   Token account: AdNkKaJkPAihRG9QRhJvrvL1kJuK85UzQEWde1n3ktV5
+   Current balance: 272030.988833
+🐳 Whale wallet: ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ
+   Token account: 6bi7oVjKHQwiQAmiX4PosGuMwy3Hrj62iXgRVFnLVtWX
+   Current balance: 271683.611491
+⏭️ SKIP 6bi7oVjKHQwiQAmiX4PosGuMwy3Hrj62iXgRVFnLVtWX — 429s > 5s
+🐳 Whale wallet: 9VZcSK8fKxnGRoVg98WsGbPxkppeirBMmF2aCuMQgPp
+   Token account: 3QVbnxGhbqf1XoQaxbK6JQFisLFS2LuGWpKEXZ7ywYQV
+   Current balance: 150387.986708
+🐳 Whale wallet: F3eYgpRsnYn82DyWzk58W4Uipdq2w4Rq5GrrBW1gpJeU
+   Token account: 7i4Fpcr3v8KxwDCX6MvjpjapdkQB81N5R9Np8KVk3GcV
+   Current balance: 138290.265905
+🐳 Whale wallet: 4agJXUZznWH13888yzbnaG31tJuBMabKtP3vGVCvrquk
+   Token account: Gcmc9MwDBL99LoYyBFDjKHAAaNCW5svPCTiH2Zxu9HNx
+   Current balance: 132211.463691
+🐳 Whale wallet: FXBXg6sqVNxt8Sgcdr2adxQ8LcoVgWV2qpL2wXb3m7xE
+   Token account: GVeTvMeVrLeQtUFwujphUE8K8xQDMpHS6yHFh79HqUm6
+   Current balance: 131705.215325
+🐳 Whale wallet: BTWdJQ4h9NiQPY11RMn2rQ8E3NZLKqjNPYSACcHu7kmr
+   Token account: EcAhTrqWxXLYKkVM4uEDKDEJqjojrFrEnC7T8S9raLcv
+   Current balance: 116358.374482
+🐳 Whale wallet: B8FX1fmXgqPppyecPbP9znnHRWXKTjsts1KHGKZL4w9U
+   Token account: HweC2rA6S8kDu7QXifDfcNnWBYm9PomaLmVcjq9Jxn1A
+   Current balance: 113075.329244
+🐳 Whale wallet: Eumtha657bKNHwxxVKixyxsbqgjaueeQrevWVtjgU925
+   Token account: DFCcSt65WJRLsCiY5viBChJvRDg62qqBBTwkfw3B6gcY
+   Current balance: 101381.138024
+🐳 Whale wallet: BFX7rUpoaWU9Z9ghjh3Tpe2wNK6DGTMMo7gRwdD6V7ed
+   Token account: 4ABQVCCV73BuxT9P2foDZXiAQJ975MmQ9GpmQ7HqmyCH
+   Current balance: 100000
+🐳 Whale wallet: AvYhrnQrK8YN2NmHUfRwMsYpYQ79SHkjZap2Q4YceNLp
+   Token account: GoM2RpaHAuX83nLUWuqMPaaDAfTXtoDfQmtzVWar1afC
+   Current balance: 99942.802756
+🐳 Whale wallet: DJyr7UqRfhTyjxJKH7YBoSQ4SvacoUeRRSHEhgwH4A75
+   Token account: AQ34GRfKo2ueqxWLyffx3LNRTFZcwCdQNVy8KES3iP3U
+   Current balance: 99375.324682
+🐳 Whale wallet: 38KH66YNwVqAXbh7kndAL7anu5Cd5QY7G9C5KBu5voxG
+   Token account: 4z2VnJH21iic2ADCNc4rpbmGPPGfobqUUmGLXj1egCUr
+   Current balance: 95625.102071
+🐳 Whale wallet: BsfdLEbPgugttUgihm6LQVFq93t65VViqymiBLf156tu
+   Token account: 3wFEeFbAP1BrnA6HdrnSzPJraDrCnahNRqJ3QGDESdkH
+   Current balance: 88000.433267
+🐳 Whale wallet: 7faVsRNRzzvDkRfjqY8R9Mja3XfSwXFuRgBmeonkztHM
+   Token account: GCQf3P2MyPyo6mXr5FRbrtrxy7XHrZfkwsyHhZnvUAs
+   Current balance: 87410.444177
+🐳 Whale wallet: 3cBB2ZyoNy8YEquSSzR2Rpggp9vcrfz4NcbCKHp7BzvT
+   Token account: EeV2Pa4Wt9oEoMbVPprReYEJZhvpAL7L9m7MddXp3czr
+   Current balance: 83863.220044
+🐳 Whale wallet: iywC5y6BSZPtC7nX1HMDkvRFd2bTWgCEnMLdmJotJX6
+   Token account: HJCRxANsNXSKSRginzQ19bW6Bp5r5m2YT5Y8KNjEA1N2
+   Current balance: 83096.675431
+
+==============================
+🐳 Whale Accumulation (Last 168 hours)
+==============================
+
+Wallet: B8FX1fmXgqPppyecPbP9znnHRWXKTjsts1KHGKZL4w9U
+Token Account: HweC2rA6S8kDu7QXifDfcNnWBYm9PomaLmVcjq9Jxn1A
+Balance Now: 113075.329244
+Received (168h): 53075.32739199999
+Sent (168h): 0
+Net Flow (168h): 53075.32739199999
+--------------------------
+
+Wallet: FXBXg6sqVNxt8Sgcdr2adxQ8LcoVgWV2qpL2wXb3m7xE
+Token Account: GVeTvMeVrLeQtUFwujphUE8K8xQDMpHS6yHFh79HqUm6
+Balance Now: 131705.215325
+Received (168h): 18764.117255999998
+Sent (168h): 0
+Net Flow (168h): 18764.117255999998
+--------------------------
+
+Wallet: EvBouh9spSXXJNLSmwEK4MEukTbN47p2j9t2v4KkQibW
+Token Account: AdNkKaJkPAihRG9QRhJvrvL1kJuK85UzQEWde1n3ktV5
+Balance Now: 272030.988833
+Received (168h): 15823.048317000008
+Sent (168h): 0
+Net Flow (168h): 15823.048317000008
+--------------------------
+
+Wallet: 9VZcSK8fKxnGRoVg98WsGbPxkppeirBMmF2aCuMQgPp
+Token Account: 3QVbnxGhbqf1XoQaxbK6JQFisLFS2LuGWpKEXZ7ywYQV
+Balance Now: 150387.986708
+Received (168h): 13551.56126300001
+Sent (168h): 0
+Net Flow (168h): 13551.56126300001
+--------------------------
+
+Wallet: iywC5y6BSZPtC7nX1HMDkvRFd2bTWgCEnMLdmJotJX6
+Token Account: HJCRxANsNXSKSRginzQ19bW6Bp5r5m2YT5Y8KNjEA1N2
+Balance Now: 83096.675431
+Received (168h): 12848.150564999989
+Sent (168h): 0
+Net Flow (168h): 12848.150564999989
+--------------------------
+
+Wallet: 3D854kknnQhu9xVaRNV154oZ9oN2WF3tXsq3LDu7fFMn
+Token Account: Bq2PMcBAFGLent72NgibJZJEXiy4n2dkbteACXn28u3g
+Balance Now: 849568.723973
+Received (168h): 3368.6187589999754
+Sent (168h): 236.9316810000455
+Net Flow (168h): 3131.68707799993
+--------------------------
+
+Wallet: ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ
+Token Account: 6bi7oVjKHQwiQAmiX4PosGuMwy3Hrj62iXgRVFnLVtWX
+Balance Now: 271683.611491
+Received (168h): 5841.819046999968
+Sent (168h): 3060.6467180000036
+Net Flow (168h): 2781.1723289999645
+--------------------------
+
+Wallet: HLnpSz9h2S4hiLQ43rnSD9XkcUThA7B8hQMKmDaiTLcC
+Token Account: DspDxKwCcR399EYJUyh42KHyBEJGxy82XUBiHy62Fnmi
+Balance Now: 457309.781227
+Received (168h): 461.37095599999884
+Sent (168h): 0
+Net Flow (168h): 461.37095599999884
+--------------------------
+
+Wallet: ForQYxfhLMv3ieCWQYxMWwACZZTp16rBUe3r8cwRLnB5
+Token Account: 24b2vH6ANLqxqBYP91DKiLeHdnfysvRiLfWHHRKbfA3Y
+Balance Now: 273725.882549
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: F3eYgpRsnYn82DyWzk58W4Uipdq2w4Rq5GrrBW1gpJeU
+Token Account: 7i4Fpcr3v8KxwDCX6MvjpjapdkQB81N5R9Np8KVk3GcV
+Balance Now: 138290.265905
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: 4agJXUZznWH13888yzbnaG31tJuBMabKtP3vGVCvrquk
+Token Account: Gcmc9MwDBL99LoYyBFDjKHAAaNCW5svPCTiH2Zxu9HNx
+Balance Now: 132211.463691
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: BTWdJQ4h9NiQPY11RMn2rQ8E3NZLKqjNPYSACcHu7kmr
+Token Account: EcAhTrqWxXLYKkVM4uEDKDEJqjojrFrEnC7T8S9raLcv
+Balance Now: 116358.374482
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: Eumtha657bKNHwxxVKixyxsbqgjaueeQrevWVtjgU925
+Token Account: DFCcSt65WJRLsCiY5viBChJvRDg62qqBBTwkfw3B6gcY
+Balance Now: 101381.138024
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: BFX7rUpoaWU9Z9ghjh3Tpe2wNK6DGTMMo7gRwdD6V7ed
+Token Account: 4ABQVCCV73BuxT9P2foDZXiAQJ975MmQ9GpmQ7HqmyCH
+Balance Now: 100000
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: AvYhrnQrK8YN2NmHUfRwMsYpYQ79SHkjZap2Q4YceNLp
+Token Account: GoM2RpaHAuX83nLUWuqMPaaDAfTXtoDfQmtzVWar1afC
+Balance Now: 99942.802756
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: DJyr7UqRfhTyjxJKH7YBoSQ4SvacoUeRRSHEhgwH4A75
+Token Account: AQ34GRfKo2ueqxWLyffx3LNRTFZcwCdQNVy8KES3iP3U
+Balance Now: 99375.324682
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: 38KH66YNwVqAXbh7kndAL7anu5Cd5QY7G9C5KBu5voxG
+Token Account: 4z2VnJH21iic2ADCNc4rpbmGPPGfobqUUmGLXj1egCUr
+Balance Now: 95625.102071
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: BsfdLEbPgugttUgihm6LQVFq93t65VViqymiBLf156tu
+Token Account: 3wFEeFbAP1BrnA6HdrnSzPJraDrCnahNRqJ3QGDESdkH
+Balance Now: 88000.433267
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: 7faVsRNRzzvDkRfjqY8R9Mja3XfSwXFuRgBmeonkztHM
+Token Account: GCQf3P2MyPyo6mXr5FRbrtrxy7XHrZfkwsyHhZnvUAs
+Balance Now: 87410.444177
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+
+Wallet: 3cBB2ZyoNy8YEquSSzR2Rpggp9vcrfz4NcbCKHp7BzvT
+Token Account: EeV2Pa4Wt9oEoMbVPprReYEJZhvpAL7L9m7MddXp3czr
+Balance Now: 83863.220044
+Received (168h): 0
+Sent (168h): 0
+Net Flow (168h): 0
+--------------------------
+🔥 TOTAL NET FLOW (168h) = 120436.43515599989
+📈 Whales accumulating (bullish)
+
+Done.
