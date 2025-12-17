@@ -1,6 +1,6 @@
 // tokenHolders.js — RPC-only Whale Accumulation Tracker (AVICI/MetaDAO compatible)
 // Manual decimals only (no auto-detect) for reliability across RPC providers.
-// Still includes: Skip wallet automatically if 429s persist for more than X seconds.
+// Skip wallet automatically if 429s persist for more than X seconds.
 // Uses uiAmountString from getTokenLargestAccounts() for stable current balances.
 
 import dotenv from "dotenv";
