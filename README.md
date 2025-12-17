@@ -50,7 +50,7 @@ This project is a command-line tool and is intended to be run locally using Node
 
 ## 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/solana-token-holder-distribution-tracker.git
+git clone https://github.com/romanheath/solana-token-holder-distribution-tracker.git
 cd solana-token-holder-distribution-tracker
 ```
 
