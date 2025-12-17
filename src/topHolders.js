@@ -247,7 +247,6 @@ async function main() {
     }
 
     decimalsGlobal = parsed;
-    console.log("🧮 Using manual decimals:", decimalsGlobal);
     break;
   }
 
