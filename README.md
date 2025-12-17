@@ -49,15 +49,21 @@ This project is a command-line tool and is intended to be run locally using Node
 - A Solana RPC endpoint (Helius, QuickNode, Alchemy, etc.)
 
 ## 1. Clone the repository
+```bash
 git clone https://github.com/<your-username>/solana-token-holder-distribution-tracker.git
 cd solana-token-holder-distribution-tracker
+```
 
 ## 2. Install dependencies
+```bash
 npm install
+```
 
 ## 3. Configure environment variables
 Create a .env from the example:
+```bash
 cp .env.example .env
+```
 
 ## Edit the .env and provide:
 - RPC_URL: your Solana RPC endpoint
@@ -65,7 +71,9 @@ cp .env.example .env
 - TOP_N:  the number of top holders to scan
 
 ## 4. Run the tracker
+```bash
 npm start
+```
 
 You will be prompted to enter:
 - Token decimals
