@@ -1,6 +1,5 @@
 🎯 Mint: BANKJmvhT8tiJRsBSS1n2HryMBPvT5Ze4HU95DUAmeta
 ❗ Enter token decimals (required, e.g., 6 or 9): 6
-🧮 Using manual decimals: 6
 ⏱️ Enter number of hours to look back (1, 4, 24): 168
 🚦 Enter max seconds to tolerate 429s before skipping a wallet (e.g., 5): 5
 📛 Any wallet 429'ing for > 5s will be skipped.
